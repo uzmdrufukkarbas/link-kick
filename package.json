@@ -3,6 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kullaniciadi/repo-adi.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,7 +16,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "lucide-react": "^0.344.0",
-    "@google/genai": "^0.1.1",
+    "@google/genai": "*",
     "pusher-js": "^8.4.0-rc2"
   },
   "devDependencies": {

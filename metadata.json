@@ -1,5 +1,5 @@
 {
-  "name": "LinKick",
+  "name": "linkick",
   "description": "Herhangi bir chat ID'si girerek o sohbeti simüle eden ve içindeki tüm linkleri kategorize edip listeleyen minimalist araç.",
   "requestFramePermissions": []
 }
